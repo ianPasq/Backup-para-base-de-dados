@@ -16,7 +16,7 @@ Log.Logger = new LoggerConfiguration()
 
 try
 {
-    var rootCommand = new RootCommand("Database Backup Utility");
+    var rootCommand = new RootCommand("Backup Base de dados");
     var configOption = new Option<FileInfo>("--config", "Path to configuration file") { IsRequired = true };
     var commandOption = new Option<string>("--command", () => "backup", "Operation to perform (backup/restore)");
 

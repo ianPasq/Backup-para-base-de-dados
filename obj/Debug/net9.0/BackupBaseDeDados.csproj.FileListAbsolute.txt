@@ -74,3 +74,4 @@
 /home/tenebrae/BackupBaseDeDados/obj/Debug/net9.0/BackupBaseDeDados.pdb
 /home/tenebrae/BackupBaseDeDados/obj/Debug/net9.0/BackupBaseDeDados.genruntimeconfig.cache
 /home/tenebrae/BackupBaseDeDados/obj/Debug/net9.0/ref/BackupBaseDeDados.dll
+/home/tenebrae/BackupBaseDeDados/obj/Debug/net9.0/BackupBaseDeDados.sourcelink.json

@@ -7,5 +7,5 @@ public interface IDatabaseConnection
     void Disconnect();
     Task ExecuteCommandAsync(string command);
     Task CreateBackupAsync(string backupPath);
-    // ... other members ...
+    // ... outros membros ...
 }

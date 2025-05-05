@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BackupBaseDeDados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08ccfaaa96bd6ad24b3a276e2e6c0051ed937523")]
 [assembly: System.Reflection.AssemblyProductAttribute("BackupBaseDeDados")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BackupBaseDeDados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
